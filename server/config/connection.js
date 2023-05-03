@@ -5,7 +5,7 @@ const { connect, connection } = require("mongoose");
 const connectionString =
   process.env.MONGODB_URI ||
   "mongodb+srv://haiviana:pdhU21B9UCa0luSr@cluster0.9qejh9r.mongodb.net/twitch_teamup?retryWrites=true&w=majority";
-
+console.log(process.env.MONGODB_URI);
 connect(connectionString, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
