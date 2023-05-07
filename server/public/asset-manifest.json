@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.39b38df7.css",
+    "main.js": "/static/js/main.f59bcf5d.js",
+    "static/media/background-img.png": "/static/media/background-img.f8a926806c2759e4aafd.png",
+    "static/media/tup.png": "/static/media/tup.80e0b5af712c21e1ad65.png",
+    "static/media/team-up-logo.png": "/static/media/team-up-logo.f37fb5cc1ab2d0146d82.png",
+    "static/media/backboard.png": "/static/media/backboard.9e3eb11da16131a6d1e0.png",
+    "index.html": "/index.html",
+    "main.39b38df7.css.map": "/static/css/main.39b38df7.css.map",
+    "main.f59bcf5d.js.map": "/static/js/main.f59bcf5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39b38df7.css",
+    "static/js/main.f59bcf5d.js"
+  ]
+}
